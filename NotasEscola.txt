@@ -1,0 +1,4 @@
+Aluno(a): Gabriel Nota: 8.4
+Aluno(a): Leticia Massaroto Nota: 7.9
+Aluno(a): Otavio Augusto Nota: 4.5
+Aluno(a): Joao Antonio Nota: 4.5
